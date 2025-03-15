@@ -10,10 +10,6 @@ To use the exercises, please curl the file to your machine and edit it with vim.
 
 ## Exercise 1: Basic Editing
 ### Delete a line with dd
-delete me 1
-delete me 2
-delete me 3
-delete me 4
 
 ### Yank and paste.  yy to yank line, p to paste line below, P above
 yank me and paste below (yyp)
@@ -29,6 +25,21 @@ Highlight this line by pressing V, then navigate around
 escape to leave visual mode
 
 #### Visual Mode + y / p
+Highlight this line by pressing V, then press y  (What happened?)
+press p (What happened?)
+Highlight this line by pressing V, then press y  (What happened?)
+press p (What happened?)
+Highlight this line by pressing V, then press y  (What happened?)
+press p (What happened?)
+Highlight this line by pressing V, then press y  (What happened?)
+press p (What happened?)
+Highlight this line by pressing V, then press y  (What happened?)
+press p (What happened?)
+Highlight this line by pressing V, then press y  (What happened?)
+press p (What happened?)
+
+Highlight this line by pressing V, then press y  (What happened?)
+press p (What happened?)
 Highlight this line by pressing V, then press y  (What happened?)
 press p (What happened?)
 
